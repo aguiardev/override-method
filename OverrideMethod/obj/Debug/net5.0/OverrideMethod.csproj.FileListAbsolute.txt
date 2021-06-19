@@ -1,0 +1,15 @@
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/bin/Debug/net5.0/OverrideMethod.deps.json
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/bin/Debug/net5.0/OverrideMethod.runtimeconfig.json
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/bin/Debug/net5.0/OverrideMethod.runtimeconfig.dev.json
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/bin/Debug/net5.0/OverrideMethod.dll
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/bin/Debug/net5.0/ref/OverrideMethod.dll
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/bin/Debug/net5.0/OverrideMethod.pdb
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/obj/Debug/net5.0/OverrideMethod.csprojAssemblyReference.cache
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/obj/Debug/net5.0/OverrideMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/obj/Debug/net5.0/OverrideMethod.AssemblyInfoInputs.cache
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/obj/Debug/net5.0/OverrideMethod.AssemblyInfo.cs
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/obj/Debug/net5.0/OverrideMethod.csproj.CoreCompileInputs.cache
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/obj/Debug/net5.0/OverrideMethod.dll
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/obj/Debug/net5.0/ref/OverrideMethod.dll
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/obj/Debug/net5.0/OverrideMethod.pdb
+/Users/tiagoaguiarmoreira/aguiardev/OverridMethod/OverrideMethod/obj/Debug/net5.0/OverrideMethod.genruntimeconfig.cache
